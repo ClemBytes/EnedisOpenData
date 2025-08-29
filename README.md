@@ -9,7 +9,7 @@ I picked this dataset because I’ll soon be working at **Enedis**, and it’s a
 
 ## Goals
 
-- Explore the dataset in a **rough notebook** (data cleaning, first insights).
+- Explore the dataset in a **draft notebook** (data cleaning, first insights).
 - Create a **cleaner presentation notebook** with visualizations and comments.
 - Possibly experiment with **Jupyter’s slide generator** to turn the notebook into a mini-presentation.
 
